@@ -1,7 +1,6 @@
 ## 📊 SQL Data Engineering Project
 
-A beginner‑friendly **data engineering pipeline** built using SQL to demonstrate core skills in data ingestion, cleaning, transformation, and analytics. This project is designed as part of my learning journey toward becoming a **Data Engineer**.
-
+A **data engineering pipeline** built using SQL to demonstrate core skills in data ingestion, cleaning, transformation, and analytics. 
 Click the project name below to view the tools i used to build this.
 
 ### [1.EDA](/1.11%20lesson/) Exploratory analysis
