@@ -2,7 +2,7 @@
 
 A beginner‑friendly **data engineering pipeline** built using SQL to demonstrate core skills in data ingestion, cleaning, transformation, and analytics. This project is designed as part of my learning journey toward becoming a **Data Engineer**.
 
-Click the project the project name below to view the tools i used to build this.
+Click the project name below to view the tools i used to build this.
 
 ### [1.EDA](/1.11%20lesson/) Exploratory analysis
 ![project one overview](https://copilot.microsoft.com/th/id/BCO.7209ed09-ba60-4469-b68e-7849c069bc2d.png)
